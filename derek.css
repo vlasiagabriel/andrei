@@ -1,0 +1,38 @@
+ul{
+	list-style-type: none;
+	padding:0px;
+	margin: 0px;
+	overflow: hidden;
+	background-color: #444444;
+
+}
+li a{
+	float:left;
+	display: block;
+	color: white;
+	padding: 10px 15px;
+	text-align: center;
+	text-decoration:none;
+	border-right: 1px solid black;
+	min-width:60px;
+}
+li a:hover{
+	background-color: #222222;
+}
+body{
+	background-image: url("omu.jpg");
+	backgroud background-repeat: no-repeat;
+	background-attachment:fixed;
+	background-color: rgb(7, 77, 77);
+}
+h1{
+	color: blue;
+	font-family: "Press Start 2P", "consolas" sans-serif;
+	font-size: big;
+	font-style: oblique;
+}
+#p1{
+color: crimson;
+font-style: oblique;
+font-size: larger;
+}
